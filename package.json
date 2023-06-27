@@ -1,0 +1,12 @@
+{
+  "name": "greetinger",
+  "version": "1.0.1",
+  "description": "A Sample Plugin for npm, Created using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "shubhamt619",
+  "license": "ISC"
+}
